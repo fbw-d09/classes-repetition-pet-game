@@ -39,7 +39,7 @@ Füge zu der *Pet* Klasse drei neue Methoden hinzu
     * Die Methode **play** hat keine Parameter.
     * Wenn das Pet einen Hunger (*hungry*) von **mehr als 8** hat, brich die Methode ab und gib eine Meldung aus: *"[name] ist zu hungrig zum spielen"
     * Spielen macht das Pet glücklicher (*happyness +2*)
-    * Beim Spielen wird das Pet wieder hunrieger (*hunger + 3*)
+    * Beim Spielen wird das Pet wieder hungrieger (*hunger + 3*)
     * Gib eine Meldung auf der Konsole aus: *"[name] hat gespielt!"*
 * **sleep()**
     * Die Methode **sleep** hat keine Parameter.
